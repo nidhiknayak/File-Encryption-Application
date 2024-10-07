@@ -1,0 +1,1 @@
+This Python script checks for an internet connection and installs required Python packages using pip, handling errors like internet disconnection or incorrect module names. After installation, it runs a main file (`EncrypC.py`) as the final step of the process.
